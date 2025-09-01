@@ -63,9 +63,9 @@ int main(void)
 
 ```
 
-# Çok Boyutlu Diziler
+# Multidimensional Arrays
 
-## İki Boyutlu Diziler
+## Two-Dimensional Arrays
 
 Two-dimensional arrays are the simplest form of multidimensional arrays. They can be defined as tables consisting of rows and columns. A two-dimensional array with m rows and n columns can contain up to m × n elements.
 
